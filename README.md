@@ -1,1 +1,1 @@
-# TicTacToe
+# A Game of TicTacToe
